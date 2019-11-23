@@ -3,7 +3,9 @@
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/davidfnck/Python-Tutorial-for-Humans)
 [![](https://img.shields.io/badge/weibo-@davidfnck-red.svg)](http://weibo.com/davidfnck)
-Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。
+
+** Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
+
 ![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/pth-feature-picture_20191123171828.jpg)
 
 > 教是最好的学！
@@ -15,7 +17,13 @@ Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Py
 # 目录
 
 [001-Python 教程简介](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
+
 [002-安装 Python](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
+
+
+# 使用
+
+如何用好这个项目，你可以直接下载到你本地，然后打开 Jupyter Notebook 跟着开始操作。
 
 # 特点
 
