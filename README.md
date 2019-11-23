@@ -4,7 +4,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/davidfnck/Python-Tutorial-for-Humans)
 [![](https://img.shields.io/badge/weibo-@davidfnck-red.svg)](http://weibo.com/davidfnck)
 
-** Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
+**Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
 
 ![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/pth-feature-picture_20191123171828.jpg)
 
@@ -22,13 +22,36 @@
 
 
 # 使用
+如何用好这个项目？
 
-如何用好这个项目，你可以直接下载到你本地，然后打开 Jupyter Notebook 跟着开始操作。
+## 跟着练
+1. 你可以直接下载到你本地
+2. 阅读完前两章安装好 Python ，我们用的是 Anaconda，就是把它装好
+3. 然后打开 Jupyter Notebook 跟着开始操作。
+
+## 提问题
+你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，热心的同学们会帮你解答。
+
+## 找同学
+~如果你想更快一点，就加入同学群吧。~
 
 # 特点
++ 不求甚解 
++ 不贪婪
 
+# 计划
+[ ]完成第1版本
+[-]开始第1个字
+
+# 作者
+
+[@davidfnck](https://github.com/DavidFnck)
+
+CDA 数据分析师人才教育品牌联合创始人。
+
+> 学数据科学，上 [CDA.cn](https://cda.cn)
 
 # 感谢
 感谢你关注到这个项目，希望对你有所帮助。
 
-当然，我的水平有限，这个项目还有很大的提升空间，你可以开一个 `issue` 让我来把这个项目做的更好，谢谢。 
+当然，我的水平有限，这个项目还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)让我来把这个项目做的更好，谢谢。:thumbsup:
