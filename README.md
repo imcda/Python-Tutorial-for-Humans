@@ -39,10 +39,6 @@
 + 不求甚解 
 + 不贪婪
 
-# 计划
-[ ]完成第1版本
-[-]开始第1个字
-
 # 作者
 
 [@davidfnck](https://github.com/DavidFnck)
