@@ -22,7 +22,7 @@
 + 辅助学习的几个小技能
 + 自学编程的能力
 
-最后，当时不知道从哪儿开始的时候，请务必从第一篇[《001-教程简介》](https://github.com/DavidFnck/Python-Tutorial-for-Humans/blob/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B.md)开始！
+最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-教程简介》](https://github.com/DavidFnck/Python-Tutorial-for-Humans/blob/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B.md)开始！
 
 ---
 
@@ -31,6 +31,12 @@
 [001-Python 教程简介](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
 
 [002-安装 Python](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
+
+[003-学习 Pandas](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
+
+[002-Python 基础](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)
+
+[002-Python 案例](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
 
 ## 教程用法
 如何用好这个教程？
