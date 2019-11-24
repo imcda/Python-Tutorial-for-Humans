@@ -1,7 +1,8 @@
-# Python-Tutorial-for-Humans™
+# Python Tutorial for Humans™
 ![](https://img.shields.io/badge/language-python-brightgreen.svg)
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/davidfnck/Python-Tutorial-for-Humans)
+[![](https://img.shields.io/github/stars/daviidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](projecturl "GitHub Stars")
+![GitHub](https://img.shields.io/github/license/davidfnck/Python-Tutorial-for-Humans)
 [![](https://img.shields.io/badge/weibo-@davidfnck-red.svg)](http://weibo.com/davidfnck)
 
 **Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
