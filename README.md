@@ -26,15 +26,15 @@
 # 使用
 如何用好这个项目？
 
-## :video_game: 跟着练
+### :video_game: 跟着练
 1. 你可以直接下载到你本地
 2. 阅读完前两章安装好 Python ，我们用的是 Anaconda，就是把它装好
 3. 然后打开 Jupyter Notebook 跟着开始操作。
 
-## :microphone: 提问题
+### :microphone: 提问题
 你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，热心的同学们会帮你解答。
 
-## :beer: 找同学
+### :beer: 找同学
 ~如果你想更快一点，就加入同学群吧。~
 
 # 特点
