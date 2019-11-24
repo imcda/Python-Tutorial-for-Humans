@@ -12,18 +12,25 @@
 
 > 教是最好的学！
 
-在我学习 Python 的过程中，摸索出了这么一条路，跟大家分享，希望对你有帮助。
+在我学习 Python 的过程中，因为不够聪明也不够勤奋，走了很多弯路，好几年也没什么长进。但终究在某一天，下定决心要爬上山去，不再半途而废，我也因此摸索出了这么一条路，不贪心复杂的代码和技术，不追求全部都刨根问底，只要能往上爬就先踩上去。
+
+这份教程肯定不是最全面、最高深、最权威的，但一定是最容易理解的，每一步都是「傻瓜式」的讲解，因为我就是个热爱学习编程的「傻瓜」，用我的方式讲一遍如何学习 Python。
+
+当你学完这份教程，你将获得什么？
+
++ Python 的基本功
++ 学会如何用别人造好的「轮子」
++ 自学编程的能力
 
 ---
 
-# 目录
+## 目录
 
 [001-Python 教程简介](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
 
 [002-安装 Python](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
 
-
-# 使用
+## 使用
 如何用好这个项目？
 
 ### :video_game: 跟着练
@@ -37,11 +44,12 @@
 ### :beer: 找同学
 ~如果你想更快一点，就加入同学群吧。~
 
-# 特点
+## 特点
 + 不求甚解 
 + 不贪婪
++ 不长
 
-# 作者
+## 作者
 
 [@davidfnck](https://github.com/DavidFnck)
 
@@ -49,7 +57,7 @@ CDA 数据分析师人才教育品牌联合创始人。
 
 > 学数据科学，上 [CDA.cn](https://cda.cn)
 
-# 感谢
+## 感谢
 感谢你关注到这个项目，希望对你有所帮助。
 
 当然，我的水平有限，这个项目还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)让我来把这个项目做的更好，谢谢。:thumbsup:
