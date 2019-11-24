@@ -1,12 +1,10 @@
 # Python Tutorial for Humans™
 ![](https://img.shields.io/badge/language-python-brightgreen.svg)
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
-![](https://badgen.net/github/stars/davidfnck/Python-Tutorial-for-Humans)
-![](https://badgen.net/github/issues/davidfnck/Python-Tutorial-for-Humans)
+[![](https://badgen.net/github/last-commit/davidfnck/Python-Tutorial-for-Humans)](https://github.com/DavidFnck/Python-Tutorial-for-Humans)
+[![](https://badgen.net/github/issues/davidfnck/Python-Tutorial-for-Humans)](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)
 ![GitHub](https://img.shields.io/github/license/davidfnck/Python-Tutorial-for-Humans)
-![](https://badgen.net/github/last-commit/micromatch/micromatch)
 [![](https://img.shields.io/badge/weibo-@davidfnck-red.svg)](http://weibo.com/davidfnck)
-![](https://badgen.net/twitter/follow/davidfnckcn)
 [![](https://img.shields.io/github/stars/davidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](https://github.com/DavidFnck/Python-Tutorial-for-Humans "GitHub Stars")
 
 **Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
