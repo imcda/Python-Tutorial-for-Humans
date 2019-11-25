@@ -32,11 +32,11 @@
 
 [002-安装 Python](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
 
-[003-学习 Pandas](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
+[003-学习 Pandas](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/003-%E5%AD%A6%E4%B9%A0%20Pandas)
 
-[002-Python 基础](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)
+[004-Python 基础](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)
 
-[002-Python 案例](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
+[005-Python 案例](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
 
 ## 教程用法
 如何用好这个教程？
@@ -50,7 +50,7 @@
 你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，热心的同学们会帮你解答。
 
 ### :beer: 找同学
-学习的
+因为这份教程而成为同学，一起开始学习编程之旅。
 
 ## 教程特点
 + 不求甚解 
@@ -64,6 +64,12 @@
 CDA 数据分析师人才教育品牌联合创始人。
 
 > 学数据科学，上 [CDA.cn](https://cda.cn)
+
+## 参与创作
+
+在我完成第一版的大部分内容之后，我将内容发布在`master`分支作为稳定发布版本，供大家下载。
+
+我将在`editing`分支继续创作增加内容，如果你也希望参与写作，或者提供一些修改意见，请在`editing`分支修改后提交`pull request`，我将认真核对并通过。
 
 ## 感谢
 感谢你关注到这个教程，希望对你有所帮助。
