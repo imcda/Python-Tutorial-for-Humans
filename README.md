@@ -74,6 +74,8 @@ CDA 数据分析师人才教育品牌联合创始人。
 我正在`editing`分支编辑。
 
 ## 感谢
+1. [菜鸟教程](https://www.runoob.com/python)
+
 感谢你关注到这个教程，希望对你有所帮助。
 
 当然，我的水平有限，这个教程还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)让我来把这个教程做的更好，谢谢。:thumbsup:
