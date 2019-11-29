@@ -37,3 +37,9 @@ git swtich master
 git merge editing
 ```
 这样，大家就可以在`master`分支看到最新版本了。
+
+## 检查记录
+
+```
+git log --all --decorate --oneline --graph
+```
