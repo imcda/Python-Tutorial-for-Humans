@@ -1,12 +1,16 @@
 # 前言
 
-安装 Python 有很多方法，甚至你如果用的是 Mac，连安装都不用，系统自带了 Python。而我推荐的是我觉得最方便的方式——Anaconda。
+Hey，大家好。
+
+恭喜你终于下定决心要上路。 这一章我们将学习如何通过 Ananconda 来安装 Python。
+
+说实话，安装 Python 有很多方法，甚至你如果用的是 Mac，连安装都不用，系统自带了 Python。而我推荐的，也是我觉得最方便的方式就是 Anaconda。
 
 # 什么是 Anaconda？
 
-Anaconda 就是可以便捷获取包且对包能够进行管理，同时对环境可以统一管理的发行版本。Anaconda 包含了conda、Python在内的超过180个科学包及其依赖项。
+Anaconda 对 Python 来说是一个百宝箱。Anaconda 包含了conda、Python在内的超过180个科学包及其依赖项。
 
-Anaconda 是一个包含 180+ 的科学包及其依赖项的发行版本。其包含的科学包包括：conda, numpy, scipy, ipython notebook等。
+Anaconda 是一个包含 180+ 的数据科学包及其依赖项的发行版本。其包含的科学包包括：conda, numpy, scipy, ipython notebook等。
 
 给一个生动的比喻：
 

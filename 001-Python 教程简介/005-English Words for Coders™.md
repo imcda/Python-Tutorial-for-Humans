@@ -12,6 +12,11 @@
 | ------ | -------- | ------ |
 | variable [:sound:](http://dict.youdao.com/dictvoice?audio=variable) | 变量 | /'veəriəbl/ |
 | string [:sound:](http://dict.youdao.com/dictvoice?audio=string) | 字符串 | /strɪŋ/ | 
+| Integer(int) [:sound:](http://dict.youdao.com/dictvoice?audio=integer) | 整数 |  /ˈɪn.tə.dʒɚ/ | 
+| concatenate（concat） [:sound:](http://dict.youdao.com/dictvoice?audio=concatenate) | 使连接 | /kənˈkæt̬.ə.neɪt/ | 
+| pip [:sound:](http://dict.youdao.com/dictvoice?audio=concatenate) |  Python 包管理工具 | /kənˈkæt̬.ə.neɪt/ | 
+
+
 
 ---
 
@@ -29,13 +34,23 @@
 slash
 backslash
 
-|  ''  | single quotation marks [:sound:](http://dict.youdao.com/dictvoice?audio=single-quotation-marks) | 单引号 |  /ˈsɪŋ.ɡə kwoʊˈteɪ.ʃən ˌmɑːrks/ |
+|  ''  | single quotes [:sound:](http://dict.youdao.com/dictvoice?audio=single-quotes) | 单引号 |  /ˈsɪŋ.ɡə kwoʊts/ |
+|  ""  | double quotes [:sound:](http://dict.youdao.com/dictvoice?audio=double-quotes) | 单引号 |  /ˈdʌb.ə kwoʊts/ |
 
+|  []  | square brackets [:sound:](http://dict.youdao.com/dictvoice?audio=square-brackets) | 方括号 |  /ˈskwer ˌbræk.ɪts/ |
+|  ()  | round brackets [:sound:](http://dict.youdao.com/dictvoice?audio=round-brackets) | 圆括号 |  /ˈraʊnd ˌbræk.ɪts/ |
+|  {}  | curly brackets [:sound:](http://dict.youdao.com/dictvoice?audio=curly-brackets) | 花括号 |  /ˈkɝː.l ˌbræk.ɪts/ |
 ---
 
-# 方法（Methods）
+# 方法（Method）
+| 单词   | 翻译     | 发音 |
+| ------ | -------- | ------ |
+| attribute [:sound:](http://dict.youdao.com/dictvoice?audio=attribute) |  特性 | /ˈæt.rɪ.bjuː/ | 
 
-
-
+# 函数（function）
+| 单词   | 翻译     | 发音 |
+| ------ | -------- | ------ |
+| parameter [:sound:](http://dict.youdao.com/dictvoice?audio=parameter) | 形参出现在函数声明或定义处，代表一个“占位符” | /pəˈræm.ə.t̬ɚ/ | 
+| argument [:sound:](http://dict.youdao.com/dictvoice?audio=argument) | 实参出现在函数调用处，代表一个“值”| /ˈɑːrɡ.jə.mənt/ | 
 
 
