@@ -78,6 +78,10 @@ CDA 数据分析师人才教育品牌联合创始人。
 在其中我也引用诸多素材，一并在此感谢：
 
 1. [菜鸟教程](https://www.runoob.com/python)
+2. [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+
+同时也要向优秀的老师致敬，我学习的榜样：
+1. [Kevin Markham](https://github.com/justmarkham)
 
 
 
