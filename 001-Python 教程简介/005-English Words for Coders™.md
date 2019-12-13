@@ -32,11 +32,8 @@
 |  `*`  | asterisk [:sound:](http://dict.youdao.com/dictvoice?audio=asterisk) | 星号 | /ˈæs.tɚ.ɪsk/ |
 |  `''`  | single quotes [:sound:](http://dict.youdao.com/dictvoice?audio=single-quotes) | 单引号 |  /ˈsɪŋ.ɡə kwoʊts/ |
 |  `""`  | double quotes [:sound:](http://dict.youdao.com/dictvoice?audio=double-quotes) | 单引号 |  /ˈdʌb.ə kwoʊts/ |
-
 |  `[]`  | square brackets [:sound:](http://dict.youdao.com/dictvoice?audio=square-brackets) | 方括号 |  /ˈskwer ˌbræk.ɪts/ |
-
 |  `()`  | round brackets [:sound:](http://dict.youdao.com/dictvoice?audio=round-brackets) | 圆括号 |  /ˈraʊnd ˌbræk.ɪts/ |
-
 |  `{}`  | curly brackets [:sound:](http://dict.youdao.com/dictvoice?audio=curly-brackets) | 花括号 |  /ˈkɝː.l ˌbræk.ɪts/ |
 
 slash
