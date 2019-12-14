@@ -35,9 +35,9 @@
 |  `[]`  | square brackets [:sound:](http://dict.youdao.com/dictvoice?audio=square-brackets) | 方括号 |  /ˈskwer ˌbræk.ɪts/ |
 |  `()`  | round brackets [:sound:](http://dict.youdao.com/dictvoice?audio=round-brackets) | 圆括号 |  /ˈraʊnd ˌbræk.ɪts/ |
 |  `{}`  | curly brackets [:sound:](http://dict.youdao.com/dictvoice?audio=curly-brackets) | 花括号 |  /ˈkɝː.l ˌbræk.ɪts/ |
+|  `/`  | slash [:sound:](http://dict.youdao.com/dictvoice?audio=slash) | 斜杠 |  /slæʃ/ |
+|  `\`  | backslash [:sound:](http://dict.youdao.com/dictvoice?audio=backslash) | 反斜杠 |  /ˈbək.slæʃ/ |
 
-slash
-backslash
 ---
 
 # 方法（Method）
