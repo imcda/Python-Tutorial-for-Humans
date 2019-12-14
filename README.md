@@ -1,7 +1,7 @@
 # Python Tutorial for Humans™
 ![](https://img.shields.io/badge/language-python-yellow.svg)
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
-[![](https://img.shields.io/github/stars/davidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](https://github.com/DavidFnck/Python-Tutorial-for-Humans "GitHub Stars")
+[![](https://img.shields.io/github/stars/davidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](https://github.com/imcda/Python-Tutorial-for-Humans "GitHub Stars")
 
 **Python Tutorial for Humans™，适合新人、免费、中文、零基础、快速入门的 Python 教程。**
 
@@ -19,7 +19,7 @@
 + 辅助学习的几个小技能
 + 自学编程的能力
 
-最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-教程简介》](https://github.com/DavidFnck/Python-Tutorial-for-Humans/blob/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B.md)开始！
+最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/DavidFnck/Python-Tutorial-for-Humans/blob/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B.md)开始！
 
 ---
 
