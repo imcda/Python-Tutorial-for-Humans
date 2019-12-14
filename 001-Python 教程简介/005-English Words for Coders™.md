@@ -17,6 +17,9 @@
 | pip [:sound:](http://dict.youdao.com/dictvoice?audio=concatenate) |  Python 包管理工具 | /kənˈkæt̬.ə.neɪt/ | 
 
 
+# 运算符号()
+
+exponent
 
 ---
 
@@ -44,6 +47,8 @@
 | 单词   | 翻译     | 发音 |
 | ------ | -------- | ------ |
 | attribute [:sound:](http://dict.youdao.com/dictvoice?audio=attribute) |  特性 | /ˈæt.rɪ.bjuː/ | 
+
+---
 
 # 函数（function）
 | 单词   | 翻译     | 发音 |

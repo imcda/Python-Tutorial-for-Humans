@@ -1,10 +1,9 @@
 # Python Tutorial for Humans™
 ![](https://img.shields.io/badge/language-python-yellow.svg)
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
-[![](https://img.shields.io/badge/weibo-@davidfnck-red.svg)](http://weibo.com/davidfnck)
 [![](https://img.shields.io/github/stars/davidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](https://github.com/DavidFnck/Python-Tutorial-for-Humans "GitHub Stars")
 
-**Python Tutorial for Humans™，免费、中文、零基础、快速入门的 Python 教程。**
+**Python Tutorial for Humans™，适合新人、免费、中文、零基础、快速入门的 Python 教程。**
 
 ![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/pth-feature-picture_20191123171828.jpg)
 
@@ -24,7 +23,7 @@
 
 ---
 
-## 教程目录
+# 教程目录
 
 [001-Python 教程简介](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
 
@@ -36,34 +35,32 @@
 
 [005-Python 案例](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
 
-## 教程用法
+# 教程用法
 如何用好这个教程？
 
-### :video_game: 跟着练
+## :video_game: 跟着练
 1. 你可以直接下载教程到你本地
 2. 阅读完前两章安装好 Python ，我们用的是 Anaconda，就是把它装好
-3. 然后打开 Jupyter Notebook 跟着开始操作。
+3. 然后打开 Jupyter Notebook 跟着开始操作
 
-### :microphone: 提问题
-你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，热心的同学们会帮你解答。
+## :microphone: 提问题
+你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，我会及时查看，热心的同学们也会帮你解答。
 
-### :beer: 找同学
-因为这份教程而成为同学，一起开始学习编程之旅。
+## :beer: 找同学
+如果因为这份教程而成为同学，那就一起开始学习编程之旅，不分年龄，不分地区。
 
-## 教程特点
-+ 不求甚解 
-+ 不贪婪
-+ 不长
 
-## 教程作者
+# 教程作者
+曹 鑫
+CDA 数据分析师人才教育品牌联合创始人
+> 学数据科学，上 [CDA.cn](http://cda.cn)
 
-[@davidfnck](https://github.com/DavidFnck)
-
-CDA 数据分析师人才教育品牌联合创始人。
-
-> 学数据科学，上 [CDA.cn](https://cda.cn)
-
-## 参与创作
+邮 箱
+```python
+at = '@'
+Email = f'caoxin{at}cda.cn'
+```
+# 教程参与
 
 在我完成第1版的大部分内容后，我将其发布在`master`分支作为稳定发布版本，供大家下载。
 
@@ -71,7 +68,7 @@ CDA 数据分析师人才教育品牌联合创始人。
 
 当然，我的水平有限，这个教程还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)让我来把这个教程做的更好，谢谢指教。:thumbsup:
 
-## 感谢
+# 感谢前辈
 
 在这一路的学习过程中，网上免费公开的资源给了我很多帮助，我所写的知识，不过也是别人都写过千百遍，我只是从我的学习角度做了整合，感谢这些慷慨分享的前辈老师们。
 
