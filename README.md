@@ -19,21 +19,21 @@
 + 辅助学习的几个小技能
 + 自学编程的能力
 
-最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/DavidFnck/Python-Tutorial-for-Humans/blob/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B.md)开始！
+最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
 
 ---
 
 # 教程目录
 
-[001-Python 教程简介](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
+[001-Python 教程简介](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)
 
-[002-安装 Python](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
+[002-安装 Python](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)
 
-[003-学习 Pandas](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/003-%E5%AD%A6%E4%B9%A0%20Pandas)
+[003-学习 Pandas](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/003-%E5%AD%A6%E4%B9%A0%20Pandas)
 
-[004-Python 基础](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)
+[004-Python 基础](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)
 
-[005-Python 案例](https://github.com/DavidFnck/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
+[005-Python 案例](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/005-Python%20%E6%A1%88%E4%BE%8B)
 
 # 教程用法
 如何用好这个教程？
@@ -44,7 +44,7 @@
 3. 然后打开 Jupyter Notebook 跟着开始操作
 
 ## :microphone: 提问题
-你可以在这里[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)提问，我会及时查看，热心的同学们也会帮你解答。
+你可以在这里[开一个 `issue` ](https://github.com/imcda/Python-Tutorial-for-Humans/issues)提问，我会及时查看，热心的同学们也会帮你解答。
 
 ## :beer: 找同学
 如果因为这份教程而成为同学，那就一起开始学习编程之旅，不分年龄，不分地区。
@@ -66,7 +66,7 @@ Email = f'caoxin{at}cda.cn'
 
 之后我将在`editing`分支继续增加和优化内容，如果你也希望参与写作，或者提供一些修改意见，请在`editing`分支修改后提交`pull request`，我将认真核对并通过，谢谢合作。
 
-当然，我的水平有限，这个教程还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/DavidFnck/Python-Tutorial-for-Humans/issues)让我来把这个教程做的更好，谢谢指教。:thumbsup:
+当然，我的水平有限，这个教程还有很大的提升空间，你可以[开一个 `issue` ](https://github.com/imcda/Python-Tutorial-for-Humans/issues)让我来把这个教程做的更好，谢谢指教。:thumbsup:
 
 # 感谢前辈
 
