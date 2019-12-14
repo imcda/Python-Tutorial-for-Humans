@@ -1,6 +1,7 @@
 # Python Tutorial for Humans™
 ![](https://img.shields.io/badge/language-python-yellow.svg)
 ![](https://img.shields.io/badge/version-v3.7-blue.svg)
+![](https://img.shields.io/badge/license-MIT-000000.svg)
 [![](https://img.shields.io/github/stars/davidfnck/Python-Tutorial-for-Humans.svg?style=social&label=Star)](https://github.com/imcda/Python-Tutorial-for-Humans "GitHub Stars")
 
 **Python Tutorial for Humans™，适合新人、免费、中文、零基础、快速入门的 Python 教程。**
