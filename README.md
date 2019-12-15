@@ -6,7 +6,7 @@
 
 **Python Tutorial for Humans™，适合新人、免费、中文、零基础、快速入门的 Python 教程。**
 
-![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/pth-feature-picture_20191123171828.jpg)
+![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/python-tutorial-banner-tiny_20191215205306.webp)
 
 > 教是最好的学！
 
