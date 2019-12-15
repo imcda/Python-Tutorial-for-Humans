@@ -6,7 +6,7 @@
 
 **Python Tutorial for Humans™，适合新人、免费、中文、零基础、快速入门的 Python 教程。**
 
-![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/pth-feature-picture_20191123171828.jpg)
+![pth-feature-picture](https://pptwinpics.oss-cn-beijing.aliyuncs.com/python-tutorial-banner-tiny_20191215205306.webp)
 
 > 教是最好的学！
 
@@ -40,19 +40,19 @@
 如何用好这个教程？
 
 ## :video_game: 跟着练
-1. 你可以直接下载教程到你本地
-2. 阅读完前两章安装好 Python ，我们用的是 Anaconda，就是把它装好
-3. 然后打开 Jupyter Notebook 跟着开始操作
+1. 你可以点击[下载教程](https://github.com/imcda/Python-Tutorial-for-Humans/archive/master.zip)到本地
+2. 参考[《001-Anaconda 安装及操作》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/master/002-%E5%AE%89%E8%A3%85%20Python/001-Anaconda%20%E5%AE%89%E8%A3%85%E5%8F%8A%E6%93%8D%E4%BD%9C.md)教程，用最方便的方式安装 Python 环境
+3. 参考[]()打开 Jupyter Notebook 跟着操作
 
 ## :microphone: 提问题
-你可以在这里[开一个 `issue` ](https://github.com/imcda/Python-Tutorial-for-Humans/issues)提问，我会及时查看，热心的同学们也会帮你解答。
+你可以提交[`issue` ](https://github.com/imcda/Python-Tutorial-for-Humans/issues)，我会及时查看，热心的同学们也会帮你解答。
 
 ## :beer: 找同学
 如果因为这份教程而成为同学，那就一起开始学习编程之旅，不分年龄，不分地区。
 
-
 # 教程作者
 曹 鑫
+
 CDA 数据分析师人才教育品牌联合创始人
 > 学数据科学，上 [CDA.cn](http://cda.cn)
 
@@ -63,7 +63,7 @@ Email = f'caoxin{at}cda.cn'
 ```
 # 教程参与
 
-在我完成第1版的大部分内容后，我将其发布在`master`分支作为稳定发布版本，供大家下载。
+在我完成第 1 版的大部分内容后，我将其发布在`master`分支作为稳定发布版本，供大家下载。
 
 之后我将在`editing`分支继续增加和优化内容，如果你也希望参与写作，或者提供一些修改意见，请在`editing`分支修改后提交`pull request`，我将认真核对并通过，谢谢合作。
 
