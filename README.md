@@ -21,22 +21,22 @@
 + 自学编程的能力（发现问题、拆解问题、搜索问题、解决问题）
 + 日后查阅的学习笔记（多提问、多记录）
 
-最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
+如果你是第一次查看这份教程，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
 
 ---
 
 # 教程目录
 | 目录|描述|
 |----|----|
-|[001-Python 教程简介](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)|描述|
-|[002-安装 Python](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)|描述|
-|[003-学习 Pandas](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/003-%E5%AD%A6%E4%B9%A0%20Pandas)|描述|
-|[004-Python 基础](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)|描述|
-|[005-SQL 数据库](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/005-SQL%20%E6%95%B0%E6%8D%AE%E5%BA%93)|描述|
-|[006-数据可视化](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/006-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)|描述|
-|[007-Python 案例](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/007-Python%20%E6%A1%88%E4%BE%8B)|描述|
-|[008-Python 错题集](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/008-Python%20%E9%94%99%E9%A2%98%E9%9B%86)|描述|
-|[009-Python 好习惯](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/009-Python%20%E5%A5%BD%E4%B9%A0%E6%83%AF)|描述|
+|[001-Python 教程简介](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B)|关于我的一些学习编程的经历和对于教程的思考|
+|[002-安装 Python](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/002-%E5%AE%89%E8%A3%85%20Python)|教你如何快速简单正确地安装 Python|
+|[003-学习 Pandas](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/003-%E5%AD%A6%E4%B9%A0%20Pandas)|Pandas 是处理数据的绝佳工具包，边用边学|
+|[004-Python 基础](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/004-Python%20%E5%9F%BA%E7%A1%80)|每一步遇到的基础知识点，都将在这里记录整理|
+|[005-SQL 数据库](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/005-SQL%20%E6%95%B0%E6%8D%AE%E5%BA%93)|关于数据库的所有知识|
+|[006-数据可视化](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/006-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)|数据可视化是一门手艺|
+|[007-Python 案例](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/007-Python%20%E6%A1%88%E4%BE%8B)|较为完整的一些案例，适合练手学到的技能|
+|[008-Python 错题集](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/008-Python%20%E9%94%99%E9%A2%98%E9%9B%86)|学习过程中遇到的问题，都记录在此|
+|[009-Python 好习惯](https://github.com/imcda/Python-Tutorial-for-Humans/tree/master/009-Python%20%E5%A5%BD%E4%B9%A0%E6%83%AF)|逼自己养成好习惯，事半功倍|
 
 # 教程用法
 如何用好这个教程？
