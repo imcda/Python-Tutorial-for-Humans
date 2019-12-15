@@ -17,8 +17,8 @@
 当你学完这份教程，你将获得什么？
 
 + Python 的基本功
-+ 辅助学习的几个小技能
-+ 自学编程的能力
++ 辅助学习的几个小技能（Git、Markdown、编程英语单词）
++ 自学编程的能力（发现问题、拆解问题、搜索问题）
 
 最后，当你不知道从哪儿开始的时候，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
 
