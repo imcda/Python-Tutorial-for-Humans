@@ -3,6 +3,7 @@
 编程语言归根结底还是用英语写的，大量的英语单词反复用的过程就是反复练习的过程，不管是发音还是意思，我们都值得在一开始就好好纠正，学对的意思，练对的发音，一次学习，终身受益。
 
 音标查询的网址：`https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/`
+
 有道发音的链接：`http://dict.youdao.com/dictvoice?audio=hello-world`
 
 分类如下：
@@ -17,7 +18,7 @@
 | pip [:sound:](http://dict.youdao.com/dictvoice?audio=concatenate) |  Python 包管理工具 | /kənˈkæt̬.ə.neɪt/ | 
 
 
-# 运算符号()
+# 运算符号(Operators)
 
 exponent
 

@@ -21,7 +21,7 @@
 + 自学编程的能力（发现问题、拆解问题、搜索问题、解决问题）
 + 日后查阅的学习笔记（多提问、多记录）
 
-如果你是第一次查看这份教程，请务必从第一篇[《001-面朝大海 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
+如果你是第一次查看这份教程，请务必从第一篇[《001-面向对象 春暖花开》](https://github.com/imcda/Python-Tutorial-for-Humans/blob/editing/001-Python%20%E6%95%99%E7%A8%8B%E7%AE%80%E4%BB%8B/001-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%20%E6%98%A5%E6%9A%96%E8%8A%B1%E5%BC%80.md)开始！
 
 ---
 
