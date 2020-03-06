@@ -58,4 +58,12 @@ exponent
 | argument [:sound:](http://dict.youdao.com/dictvoice?audio=argument) | 参数，实参出现在函数调用处，代表一个“值”| /ˈɑːrɡ.jə.mənt/ | 
 | axis [:sound:](http://dict.youdao.com/dictvoice?audio=axis) | 轴 | /ˈæk.sɪs/ | 
 
+# 网页抓取(Web Scraping)
+Web Scraping
+HTML
+attribute
+nested
+tag
+parse
 
+---
