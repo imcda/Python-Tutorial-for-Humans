@@ -102,11 +102,9 @@ Jupyter Notebook 有助于我们编写代码、运行代码以及获取代码的
 
 ![Win-Anaconda-安装-1](https://pptwinpics.oss-cn-beijing.aliyuncs.com/Win-Anaconda-%E5%AE%89%E8%A3%85-1_20191216091606.jpg)
 
-## 7. 在“Advanced Installation Options”中不要勾选“Add Anaconda to my PATH environment variable.”（“添加Anaconda至我的环境变量。”）。
+## 7. 在“Advanced Installation Options”中要勾选“Add Anaconda to my PATH environment variable.”（“添加Anaconda至我的环境变量。”）。
 
-**因为如果勾选，则将会影响其他程序的使用。如果使用Anaconda，则通过打开Anaconda Navigator或者在开始菜单中的“Anaconda Prompt”（类似macOS中的“终端”）中进行使用。**
-
-除非你打算使用多个版本的Anaconda或者多个版本的Python，否则便勾选“Register Anaconda as my default Python 3.6”。
+同时勾选“Register Anaconda as my default Python 3.6”。
 
 然后点击“Install”开始安装。如果想要查看安装细节，则可以点击“Show Details”。
 
