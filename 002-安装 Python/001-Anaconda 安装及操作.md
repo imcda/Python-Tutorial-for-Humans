@@ -1,8 +1,14 @@
+![](https://pptwinpics.oss-cn-beijing.aliyuncs.com/CDA%E8%AE%B2%E5%B8%88%E6%B0%B4%E5%8D%B0_20200314161940.png)
+
 # 前言
 
-Hey，大家好。
+大家好，我是 CDA 曹鑫。
 
-这一章我们将学习如何通过 Anaconda 来安装 Python。
+我的 Github 地址：https://github.com/imcda 。
+
+我的邮箱：caoxin@cda.cn 。
+
+这节课我们将学习如何通过 Anaconda 来安装 Python。
 
 说实话，安装 Python 有很多方法，甚至你如果用的是 Mac，连安装都不用，系统就自带了 Python，我也曾经在一台电脑用3种方法装了4-5个版本的 Python，以至于我一段时间不用，都不知道该怎么打开对应版本的 Python 了。所以，今天我推荐的，也是我觉得最方便的方式就是 Anaconda。
 
@@ -124,6 +130,8 @@ Jupyter Notebook 有助于我们编写代码、运行代码以及获取代码的
 - “开始 → Anaconda3（64-bit）→ Anaconda Navigator”，若可以成功启动Anaconda Navigator则说明安装成功。
 
 - “开始 → Anaconda3（64-bit）→ 右键点击Anaconda Prompt → 以管理员身份运行”，在Anaconda Prompt中输入 conda list ，可以查看已经安装的包名和版本号。若结果可以正常显示，则说明安装成功。
+
+![](https://pptwinpics.oss-cn-beijing.aliyuncs.com/CDA%E8%AE%B2%E5%B8%88%E6%B0%B4%E5%8D%B0_20200314161940.png)
 
 # Anaconda 基础操作：conda 
 
@@ -276,3 +284,5 @@ conda upgrade <package_name>
 - `<package_name>` 为指定更新的包名。包名两边不加尖括号`<>`。
 
 - 更新多个指定包，则包名以空格隔开，向后排列。如： `conda update pandas numpy matplotlib` 即更新`pandas`、`numpy`、`matplotlib`包。
+
+![](https://pptwinpics.oss-cn-beijing.aliyuncs.com/CDA%E8%AE%B2%E5%B8%88%E6%B0%B4%E5%8D%B0_20200314161940.png)
