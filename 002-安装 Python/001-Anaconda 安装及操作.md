@@ -116,6 +116,16 @@ Jupyter Notebook 有助于我们编写代码、运行代码以及获取代码的
 
 ![Win-Anaconda-安装-2](https://pptwinpics.oss-cn-beijing.aliyuncs.com/Win-Anaconda-%E5%AE%89%E8%A3%85-2_20191216091911.jpg)
 
+**注意：**
+
+如果你没有勾选，在 windows 端，你可以右击我的电脑->属性->高级系统设置->环境变量，在下面的系统变量里面，找到path。打开，新建，添加
+
+`C:\Users\你的用户名\Anaconda3`
+
+`C:\Users\你的用户名\Anaconda3\Scripts`
+
+![](https://pptwinpics.oss-cn-beijing.aliyuncs.com/20171103165713538_20200324085704.png)
+
 ## 8. 点击“Next”。
 
 ## 9. 进入“Thanks for installing Anaconda!”界面则意味着安装成功，点击“Finish”完成安装。
